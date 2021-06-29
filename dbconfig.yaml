@@ -1,0 +1,13 @@
+mysql:
+  host: 10.1.3.187
+  port: 3306
+  user: player
+  passwd: kylin
+  database: kylin
+
+postgresql:
+  host: 10.1.2.140
+  port: 5433
+  user: postgres
+  passwd: kylin
+  database: kylin
